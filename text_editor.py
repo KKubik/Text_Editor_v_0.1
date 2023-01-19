@@ -66,7 +66,6 @@ def not_found():
 
 # very simple printing, instant
 def print_text():
-    # p = win32print.OpenPrinter("Samsung ML-2010")
     os.startfile('our_text.txt', 'print')
 
 
